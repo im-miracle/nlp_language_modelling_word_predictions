@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# user ignores
+notebook/dataSet
+
 # C extensions
 *.so
 

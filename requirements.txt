@@ -1,0 +1,29 @@
+ipython
+jupyter
+cupy
+rmm
+cudf
+gdown
+unzip
+gensim
+numpy
+pandas
+Pillow
+matplotlib
+seaborn
+onnxruntime
+pydot
+pydotplus
+graphviz
+opencv-python
+nltk
+contractions
+tensorflow
+tensorboard
+scikit-learn
+setuptools
+langdetect
+spacy
+# en_core_web_md;
+# en_core_web_sm;
+dask
